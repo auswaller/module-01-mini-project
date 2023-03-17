@@ -11,7 +11,7 @@ header{
     top: 0px;
     width: 100%;
     height: 50px;
-    background-color: lightblue;
+    background-color: rgb(59, 179, 219);
     border-bottom: 5px solid blue;
     text-align: right;
 }
@@ -19,7 +19,7 @@ header{
 footer{
     width: 100%;
     height: 50px;
-    background-color: lightblue;
+    background-color: rgb(59, 179, 219);
     border-top: 5px solid rgb(0, 0, 168);
 }
 
@@ -29,5 +29,7 @@ footer{
 }
 
 .body{
+    text-align: center;
     margin-top: 55px;
+    background-color: lightsteelblue;
 }
